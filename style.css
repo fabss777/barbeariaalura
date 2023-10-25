@@ -8,6 +8,9 @@ height: 650px;}
 body{
 background-color: white;
 }
+.parte1{
+    background: gray
+}
 h1{
 text-align: center; color: red
 }
@@ -16,4 +19,7 @@ text-align: center;
 }
 strong{
 color: indianred;
+}
+.parte2{
+    background: #131c46;
 }
